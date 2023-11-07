@@ -1,0 +1,16 @@
+Package: feedback
+Title: Accumulate and Leverage Feedback on R Code
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "John",
+           family = "Emerson",
+           role = c("aut", "cre"),
+           email = "jayemerson@gmail.com")
+Description: What the package does (one paragraph).
+Imports: lintr, formatR, styler, testthat (>= 3.0.0), R.utils, SimilaR, methods
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+Suggests: 
+Config/testthat/edition: 3
